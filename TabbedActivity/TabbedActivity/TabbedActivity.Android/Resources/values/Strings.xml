@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">TabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="action_settings">Settings</string>
+</resources>
